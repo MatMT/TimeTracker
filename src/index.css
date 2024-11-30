@@ -1,3 +1,22 @@
+:root {
+  --blackberry-color: #4756C2;
+  --blackberry-color-hover: #3D4BB8;
+
+  --pinia-color: #F7B226;
+  --pinia-color-hover: #F6AB13;
+
+  --strawberry-color: #D7335C;
+  --strawberry-color-hover: #CC2851;
+
+  --mint-color: #30D990;
+  --mint-color-hover: #26CF86;
+
+  --background-color: #F2F2F2;
+  --text-color: #111827;
+  --muted-text-color: #6b7280;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
